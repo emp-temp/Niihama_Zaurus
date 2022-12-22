@@ -1,2 +1,3 @@
 pub mod common;
-pub mod commands;
+pub mod slash_commands;
+pub mod utils;
